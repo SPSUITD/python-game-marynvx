@@ -1,0 +1,14 @@
+{ "columns":1,
+ "image":"..\/\u041a\u0430\u0440\u0442\u0438\u043d\u043a\u0438\/\u0437\u0435\u043b\u0435\u043d\u0430\u044f ph.png",
+ "imageheight":64,
+ "imagewidth":64,
+ "margin":0,
+ "name":"\u0437\u0435\u043b\u0435\u043d\u0430\u044f ph",
+ "spacing":0,
+ "tilecount":1,
+ "tiledversion":"1.8.4",
+ "tileheight":64,
+ "tilewidth":64,
+ "type":"tileset",
+ "version":"1.8"
+}
